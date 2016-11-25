@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="IPlayer.SettingsFlyLayout"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="using:IPlayer"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="768"
+             d:DesignWidth="646"
+             mc:Ignorable="d">
+<UserControl.Resources>
+    <local:Info x:Key="info"></local:Info>
+</UserControl.Resources>
+    <Grid DataContext="{StaticResource info}" Background="SpringGreen" >
+        <Image  Source="{Binding ThumbUri}" Margin="355,25,26,523"/>
+        <TextBlock  Foreground="White" Text="{Binding DisplayName}" Margin="10,25,296,633"/>
+    </Grid>
+</UserControl>
+

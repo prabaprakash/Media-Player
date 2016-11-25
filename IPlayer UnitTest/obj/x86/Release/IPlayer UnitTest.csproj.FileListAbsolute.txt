@@ -1,0 +1,72 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Images\UnitTestLogo.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Images\UnitTestSmallLogo.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Images\UnitTestSplashScreen.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Images\UnitTestStoreLogo.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\IPlayer UnitTest.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\IPlayer UnitTest.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\resources.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\AppxManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\IPlayer UnitTest.build.appxrecipe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\IPlayer UnitTest.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\IPlayer UnitTest.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\en-US\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Core\en-US\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\en-US\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\IPlayer UnitTest.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Core.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Core\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Utilities.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Utilities\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\IPlayer.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Microsoft.PlayerFramework.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\WinRTXamlToolkit.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Callisto.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\PerpetuumSoft.Controls.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\PerpetuumSoft.WinRT.Framework.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\IPlayer.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Microsoft.PlayerFramework.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\WinRTXamlToolkit.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\WinRTXamlToolkit.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Newtonsoft.Json.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\IPlayer UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\Resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Core\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Core\Resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\Resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel\Resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\Resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Utilities\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\Microsoft.VisualStudio.TestPlatform.Utilities\Resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer UnitTest\obj\x86\Release\pri.resfiles.intermediate

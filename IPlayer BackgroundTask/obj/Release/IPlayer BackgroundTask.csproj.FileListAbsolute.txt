@@ -1,0 +1,12 @@
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\Release\IPlayer_BackgroundTask.winmd
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\Release\IPlayer_BackgroundTask.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\Release\IPlayer_BackgroundTask.pri
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\IPlayer_BackgroundTask.winmd
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\IPlayer_BackgroundTask.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\IPlayer_BackgroundTask.winmdobj
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\IPlayer_BackgroundTask.compile.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\priconfig.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\layout.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\resources.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\pri.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\Release\LanguageQualifiers.txt
